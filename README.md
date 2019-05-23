@@ -16,10 +16,12 @@ The app will then pull the dogs in your area that are available for adoption.
 Clicking on the “Learn More” button under the breed name will display additional information about that breed.
 
 # Authors
-<ul>Gabby</ul>
-<ul>Crystal</ul>
-<ul>Frank</ul>
-<ul>Tori</ul>
+Tori 
+Crystal 
+Frank 
+Gabby
+
+##
 
 
 # Thank you and enjoy!
