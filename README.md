@@ -16,12 +16,15 @@ The app will then pull the dogs in your area that are available for adoption.
 Clicking on the “Learn More” button under the breed name will display additional information about that breed.
 
 # Authors
-Tori 
-Crystal 
-Frank 
+Tori
+
+Crystal
+
+Frank
+
 Gabby
 
 ##
-
+https://github.com/glipps/Tail-Wag-Companion
 
 # Thank you and enjoy!
